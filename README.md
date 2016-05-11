@@ -52,7 +52,7 @@ Given set of N objects,
 
 Analysis of algorithms
 -------------
-![Common Order-of-growth classification](https://raw.githubusercontent.com/injulkarnilesh/java_tryout/master/Algorithm/src/main/resources/OrderOfGrowth.png)
+![Common Order-of-growth classification](https://raw.githubusercontent.com/injulkarnilesh/Algorithm/master/src/main/resources/OrderOfGrowth.png)
 
 #### Running Time
  - Best Case : Big Omega
@@ -320,7 +320,7 @@ Balanced Search Tree
     - Split nodes with M key-link pairs on a way up the tree.
 - Search and insert for M order and N nodes takes between log<sub>M-1</sub>N and log<sub>M/2</sub>N probes.
 
-![Common Order-of-growth classification](https://raw.githubusercontent.com/injulkarnilesh/java_tryout/master/Algorithm/src/main/resources/B-Tree.png)
+![Common Order-of-growth classification](https://raw.githubusercontent.com/injulkarnilesh/Algorithm/master/src/main/resources/B-Tree.png)
 
  
 
